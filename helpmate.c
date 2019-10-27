@@ -8,7 +8,7 @@
  * helpmate.c
  *
  *  Created on: Mar 22, 1998
- *      Author: Alexander QS
+ *      Author: aqs
  */
 # include "stdio.h"
 # include "process.h"
